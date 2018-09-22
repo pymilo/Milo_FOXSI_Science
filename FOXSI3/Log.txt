@@ -1,0 +1,48 @@
+Task for Milo:
+
+
+1. FTP permits problem - FIX
+
+2. Make a summary of the  the quiet-sun observations using FOXSI-3 data and AIA.
+
+3. Go to github and read how to read the formatter 
+Analysis the formatter data. I need some extra things that I will eed to ask the detector team to send me. We don't have some routines that pull the East-limb data for example. Using select a time interval. Timing information is a little weird and I need to be aware of that. Email the entire detector team.
+
+4. 	Poster - Ghost Rays and Overview of FOXSI3.
+				Phoenix image.
+
+
+5. NESSF Fellowship:
+	Quiet-Sun FOXSI3
+	Quiet-Sun FOXSI2
+
+8. FOXSI2 Quiet-Sun analysis. This needs to go into a paper by itself. I need to take the lead on this. Discuss later if the FOXSI3 data will give some extra useful information to include in the paper. 
+
+
+6. Deliver a complete report of the Optics Calibration. including lasers and off-axis sources.
+
+7. Paper. Take the lead on the Ghost-Rays and the Optics calibrations for FOXSI3. "Astronmical Instrumentation - Journal". Investigate and propose some other Journals that we may use to submit this particular paper. Scope. 
+
+For Wednesday:
+
+- AIA Data summary . 
+
+For Next Friday:
+
+- Making the summary will need some exchange of emails with the FOXSI team. 
+
+- Read and make a summary of Iann Hannan papers (2) about the quiet-sun paper. Hi's working with RHESSI in a non-traditional way. Huge background. all statistical is Gaussian for him an for us is Poisson. We may not compete with these results. People is going to be interested in our results because.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
