@@ -66,11 +66,37 @@ Sept 24, 2018 Lindsay Milo Meeting
 Downloading all AIA data requiered for FOXSI-3 analysis.
 
 
+*************************************************
+*************************************************
+
+Oct 12, 2018 Lindsay Milo Meeting
+
+*************************************************
+*************************************************
+
+
+Some notes:
+
+1. Lindsay will put the data in the FTP repo and I will move it to the FOXSI folder if need it (check this on Monday).
+
+2. AGU Poster - Ghost Rays and Overview of FOXSI3. [Outline ready for next meeting]
+				Phoenix image.
+
+3a. NESSF Fellowship: 
+	Quiet-Sun FOXSI3
+	Quiet-Sun FOXSI2
+	Adding a little bit of the simulation and MSFC data. 
+
+3b. FOXSI2 Quiet-Sun analysis. This needs to go into a paper by itself. I need to take the lead on this. Discuss later if the FOXSI3 data will give some extra useful information to include in the paper. - Use slides for discussions with Säm. For this meeting I'll have a descripction of the simulation and an explanation of Ghost-Rays for FOXSI-rocket. Outline of the Ray-Tracing paper. 
+
+3c. Paper. Take the lead on the Ghost-Rays and the Optics calibrations for FOXSI3. "Astronmical Instrumentation - Journal". Investigate and propose some other Journals that we may use to submit this particular paper. Scope. 
+
+
+4. Deliver a complete report of the Optics Calibration. including lasers and off-axis sources.
 
 
 
-
-
+8. Sunquakes.
 
 
 
