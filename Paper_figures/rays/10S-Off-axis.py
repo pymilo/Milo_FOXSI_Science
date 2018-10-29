@@ -4,12 +4,12 @@ from foxsisim.module import Module
 from foxsisim.util import load_rays, save_rays
 from foxsisim.detector import Detector
 
-n = 100000             ## number of rays
+n = 1000000             ## number of rays
 fbr = 3.09671
 rbr = 2.62
 Sdist = -1.5e13        ## cm
 #offaxisAngle = 0.0    ## arcmin
-offaxisAngles = np.arange(0.0,31.,2.)     ## arcmin
+offaxisAngles = np.arange(4.,33.,4.)     ## arcmin
 
 
 for angle in offaxisAngles:
