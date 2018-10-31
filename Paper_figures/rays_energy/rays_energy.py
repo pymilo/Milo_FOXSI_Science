@@ -28,7 +28,7 @@ def spectrum(z):
 module = Module(radii = [5.151,4.9,4.659,4.429,4.21,4.0,3.799,3.59,3.38,3.17], core_radius=(fbr,rbr))    
 
 
-angle = 32.0
+angle = 28.0
 
 Sdist = -1.5e13         ## Source distance in cm
 Xs = -Sdist * np.sin(np.deg2rad(np.sqrt(2.) * angle / 120.0))
