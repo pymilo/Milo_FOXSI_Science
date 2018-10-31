@@ -10,7 +10,7 @@ from foxsisim.source import Source
 from foxsisim.util import save_rays
 
 folder = '/Users/Kamilobu/Desktop/Developer/Milo_FOXSI_Science/Paper_figures/rays_energy/F309R262/'
-nrays = 100000           ## Number of rays
+nrays = 100000          ## Number of rays
 max_energy = 30.0       ## Maximum energy
 fbr = 3.09671           ## Front blocker radius
 rbr = 2.62              ## Rear blocker radius
