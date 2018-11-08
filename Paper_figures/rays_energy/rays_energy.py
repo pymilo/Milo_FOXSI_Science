@@ -10,7 +10,7 @@ from foxsisim.source import Source
 from foxsisim.util import save_rays
 
 folder = '/Users/Kamilobu/Desktop/Developer/Milo_FOXSI_Science/Paper_figures/rays_energy/F309R262/'
-nrays = 100000          ## Number of rays
+nrays = 1000          ## Number of rays
 max_energy = 30.0       ## Maximum energy
 fbr = 3.09671           ## Front blocker radius
 rbr = 2.62              ## Rear blocker radius
@@ -46,7 +46,7 @@ print('Pasing rays')
 module.passRays(rays, robust=True)
 
 Trays = [ray for ray in rays if (ray.dead==False)] ## save only those alive rays
-save_rays(Trays,filename=folder+'rays_Angle_=_'+str(angle)+'.csv')
+save_rays(Trays,filename=folder+'test_rays_Angle_=_'+str(angle)+'.csv')
 print('rays saved, time = ' + str((datetime.now() - tstart).seconds) + 'seconds' )
 
 
