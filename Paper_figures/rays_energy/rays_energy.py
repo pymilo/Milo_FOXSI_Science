@@ -43,7 +43,7 @@ tgen = datetime.now()
 print('rays generated, time = ' + str((tgen - tstart).seconds) + 'seconds' )
 
 print('Pasing rays')
-module.passRays(rays, robust=True)
+module.passRays(rays)
 
 Trays = [ray for ray in rays if (ray.dead==False)] ## save only those alive rays
 save_rays(Trays,filename=folder+'test_rays_Angle_=_'+str(angle)+'.csv')
