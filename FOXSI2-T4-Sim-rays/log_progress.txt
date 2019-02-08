@@ -9,6 +9,20 @@ and quiet sun analysis when observing target 4.
  FEB 8, 2019
 ********************************************************
 
+Main Goal: 
+
+	Mask out regions free of Ghost Rays on each of the 
+	FOXSI2 Silicon detectors for Target 4. 
+
+Step 1 : 	Run the ray-tracing simulation mimicing the observation
+			of T4. I don't need to use energy dependance. This will
+			be the worst case escenario of Ghost-Rays. 
+
+Step 2 : 	Correct the offset shown in the silicon FOVs.
+
+Step 3 : 	Create masks of FOV areas free of ghost rays.
+
+
 
 
 
