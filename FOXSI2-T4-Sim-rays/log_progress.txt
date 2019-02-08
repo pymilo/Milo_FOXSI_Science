@@ -22,6 +22,11 @@ Step 2 : 	Correct the offset shown in the silicon FOVs.
 
 Step 3 : 	Create masks of FOV areas free of ghost rays.
 
+-------------------------------------------------------------
+
+Where is the code that generates the rays mimicing FOXS2 T4? 
+
+
 
 
 
