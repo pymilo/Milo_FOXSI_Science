@@ -26,6 +26,46 @@ Step 3 : 	Create masks of FOV areas free of ghost rays.
 
 Where is the code that generates the rays mimicing FOXS2 T4? 
 
+I found a Jupyter notebook in my desktop called "FOXSI2-MIMIC.ipnb"
+Let's start looking at that. Done! Answer: That notebook shows a 
+really old simulation when the ghost patterns showed numerical gaps. 
+
+
+I found the Notebook that summarizes the latest results:
+Desktop/Developer/Milo_RayTracing/T4FOXSI2/T4FOXSI2_Analysis.ipynb
+
+It reads the rays form here:
+Desktop/Developer/Milo_RayTracing/T4FOXSI2/makerays/rays/D6AR1A.csv
+
+I found the old code that created the rays at:
+
+"Desktop/Developer/Milo_RayTracing/T4FOXSI2/makerays/old/Creating_rays.py"
+
+I copy and slithly modify it to make it efficient to run in Juan Carloses
+Machine, the reason is that that machine runs faster to generate rays. 
+
+Template for generating rays with no energy dependance here:
+"Creating_rays_template.py"
+
+I also created the Notebook called: "Masks_FOXSI2_T4.ipnb". 
+In this notebook I initialy tested the performance of the rays
+genreated as a test. They agree with what I observed in the pass. 
+This is for 100000 rays. I stll see the pattern no very populated,
+so it seems to be worth it to run the simulation for 2 orders of magnitude.
+in this case I expect a file size of ~2.5GB.
+
+Time to run the simulation in Juan Carloses computer. 
+
+Simulation runing for 10M rays. Time start: 2:14pm expected runing time: ~ 1day
+
+-------------------------------------------------------------
+
+**** Checking the FOV offset *********
+
+
+
+
+
 
 
 
