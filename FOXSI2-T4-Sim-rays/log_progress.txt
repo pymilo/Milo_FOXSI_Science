@@ -47,6 +47,10 @@ Machine, the reason is that that machine runs faster to generate rays.
 Template for generating rays with no energy dependance here:
 "Creating_rays_template.py"
 
+********************************************************
+ FEB 9, 2019
+********************************************************
+
 I also created the Notebook called: "Masks_FOXSI2_T4.ipnb". 
 In this notebook I initialy tested the performance of the rays
 genreated as a test. They agree with what I observed in the pass. 
@@ -58,7 +62,22 @@ Time to run the simulation in Juan Carloses computer.
 
 Simulation runing for 10M rays. Time start: 2:14pm expected runing time: ~ 1day
 
+
+********************************************************
+ FEB 10, 2019
+********************************************************
+
+The simulation finished runing on Juan Carloses Desktop. I created 
+file called: D0AR1.csv
+
+Already downloaded in my laptop.
+
+
+
+
 -------------------------------------------------------------
+Goal for today:
+
 
 **** Checking the FOV offset *********
 
