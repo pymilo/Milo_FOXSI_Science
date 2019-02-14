@@ -83,12 +83,49 @@ The 10-shell module Ghost ray pattern i already displayed in the notebok:
 
 I put runing the simulation for a 7-shell module on Juan Carloses computer
 
+**** How to Mask out the ghost ray region on each FOV **********
+
+
+********************************************************
+ FEB 13, 2019
+********************************************************
+
+I found that the bug for ploting map using the IDL routines was due to the 
+plot_map.pro script in the SSW folder. I change it for an old version and now
+everything is plotting nominally.
+
+I found easy to do the mask in IDL than in Python. From Python I need to know the 
+coordinates of a circle that encopases the ghost rays. 
+
+
+********************************************************
+ FEB 14, 2019   Happy Valentine's Day
+********************************************************
+
 -------------------------------------------------------------
 Goal for today:
 
 **** Checking the FOV offset *********
 
-**** How to Mask out the ghost ray region on each FOV **********
+The problem was that I did not include the shift off-sets when plotting the FOV in Python!
+
+Here is the list of shifts to be included:
+
+shift0       53.5       55.7
+shift1       30.5       58.7
+shift2       0.00       0.00
+shift3       0.00       0.00
+shift4       37.5       13.7
+shift5       63.5       39.7
+shift6       43.5       41.7
+
+
+The circles that encopases FOXSI emission free of Ghost Rays are:
+
+C1 : center = [0,0]			radius = 970
+C2 : center = [-240,350]	radius = 610
+
+
 
 
 
