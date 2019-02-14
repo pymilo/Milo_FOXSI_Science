@@ -73,13 +73,24 @@ file called: D0AR1.csv
 Already downloaded in my laptop.
 
 
+********************************************************
+ FEB 11, 2019
+********************************************************
 
+The 10-shell module Ghost ray pattern i already displayed in the notebok: 
+
+"Masks_FOXSI2_T4.ipynb"
+
+I put runing the simulation for a 7-shell module on Juan Carloses computer
 
 -------------------------------------------------------------
 Goal for today:
 
-
 **** Checking the FOV offset *********
+
+**** How to Mask out the ghost ray region on each FOV **********
+
+
 
 
 
