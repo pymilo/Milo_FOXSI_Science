@@ -124,7 +124,7 @@ The circles that encopases FOXSI emission free of Ghost Rays are:
 [10-shell module]
 
 C1 : center = [0,0]			radius = 970
-C2 : center = [-240,350]	radius = 610
+C2 : center = [-240,350]	radius = 580
 
 
 ********************************************************
